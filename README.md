@@ -13,7 +13,7 @@ The form is designed to collect:
 - 🗣 *Feedback* (Short bio and comments)  
 
 ## ⚙ Implementation Notes
-- ✅ Used semantic tags: '<header>', '<main>', '<section>', '<footer>'  
+- ✅ Used semantic tags: `<header>`, `<main>`, `<section>`, `<footer>` 
 - ✅ Grouped inputs into *logical sections* for clarity  
 - ✅ Applied <label> for accessibility  
 - ✅ Covered multiple input types: text, email, date, radio, checkbox, file, password, etc.  
